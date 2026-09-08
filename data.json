@@ -120,17 +120,6 @@
       "due": null,
       "note": null,
       "history": []
-    },
-    {
-      "id": "BIB-01",
-      "name": "Training bibs set",
-      "cat": "Misc",
-      "status": "in",
-      "borrower": null,
-      "out": null,
-      "due": null,
-      "note": null,
-      "history": []
     }
   ]
 }
