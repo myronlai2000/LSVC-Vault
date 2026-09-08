@@ -1,0 +1,136 @@
+{
+  "items": [
+    {
+      "id": "BALL-01",
+      "name": "Match balls ×6",
+      "cat": "Balls",
+      "status": "in",
+      "borrower": null,
+      "out": null,
+      "due": null,
+      "note": null,
+      "history": []
+    },
+    {
+      "id": "BALL-02",
+      "name": "Training ball bag",
+      "cat": "Balls",
+      "status": "in",
+      "borrower": null,
+      "out": null,
+      "due": null,
+      "note": null,
+      "history": []
+    },
+    {
+      "id": "CART-01",
+      "name": "Ball trolley",
+      "cat": "Balls",
+      "status": "in",
+      "borrower": null,
+      "out": null,
+      "due": null,
+      "note": null,
+      "history": []
+    },
+    {
+      "id": "NET-01",
+      "name": "Competition net",
+      "cat": "Net & court",
+      "status": "in",
+      "borrower": null,
+      "out": null,
+      "due": null,
+      "note": null,
+      "history": []
+    },
+    {
+      "id": "NET-02",
+      "name": "Training net",
+      "cat": "Net & court",
+      "status": "in",
+      "borrower": null,
+      "out": null,
+      "due": null,
+      "note": null,
+      "history": []
+    },
+    {
+      "id": "ANT-01",
+      "name": "Antennae set",
+      "cat": "Net & court",
+      "status": "in",
+      "borrower": null,
+      "out": null,
+      "due": null,
+      "note": null,
+      "history": []
+    },
+    {
+      "id": "SCORE-01",
+      "name": "Flip scoreboard",
+      "cat": "Officiating",
+      "status": "in",
+      "borrower": null,
+      "out": null,
+      "due": null,
+      "note": null,
+      "history": []
+    },
+    {
+      "id": "REF-01",
+      "name": "Referee stand",
+      "cat": "Officiating",
+      "status": "in",
+      "borrower": null,
+      "out": null,
+      "due": null,
+      "note": null,
+      "history": []
+    },
+    {
+      "id": "WHIS-01",
+      "name": "Whistle pack",
+      "cat": "Officiating",
+      "status": "in",
+      "borrower": null,
+      "out": null,
+      "due": null,
+      "note": null,
+      "history": []
+    },
+    {
+      "id": "AID-01",
+      "name": "First aid kit",
+      "cat": "Misc",
+      "status": "in",
+      "borrower": null,
+      "out": null,
+      "due": null,
+      "note": null,
+      "history": []
+    },
+    {
+      "id": "PUMP-01",
+      "name": "Pump + needles",
+      "cat": "Misc",
+      "status": "in",
+      "borrower": null,
+      "out": null,
+      "due": null,
+      "note": null,
+      "history": []
+    },
+    {
+      "id": "BIB-01",
+      "name": "Training bibs set",
+      "cat": "Misc",
+      "status": "in",
+      "borrower": null,
+      "out": null,
+      "due": null,
+      "note": null,
+      "history": []
+    }
+  ]
+}
