@@ -239,7 +239,7 @@ function setAdmin(v){
   $('.livedot').classList.toggle('off',!configured);
   const ft=$('#footText');
   if(!configured) ft.textContent = v ? 'Preview mode — changes save to this browser only.' : 'Preview mode — connect Firebase to go live.';
-  else ft.textContent = v ? 'Signed in as manager — you can add, edit and remove items.' : 'Live board · anyone can borrow or return. Tap Manage to sign in.';
+  else ft.textContent = v ? 'Signed in as manager — you can add, edit and remove items.' : 'Live board · Anyone can borrow or return. Tap Manage to sign in.';
 }
 
 function openLock(){
